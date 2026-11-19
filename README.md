@@ -113,6 +113,22 @@ Expand the marketplace to help developers identify potential sources of funding 
 - Expanded partnership workflows.
 - Deployment and production-readiness improvements.
 
+### Investor Marketplace and Game Investment
+
+BrandBridge plans to introduce an investor marketplace where individuals and investment organisations can discover promising games and game-development ventures.
+
+**Planned capabilities:**
+
+- **Game Discovery:** Investors can explore games seeking funding and identify projects with strong commercial potential.
+- **Equity Investment:** Eligible investors may have opportunities to purchase ownership shares in game studios or qualifying ventures.
+- **Development Funding:** Investors can provide capital to help developers build, launch, and expand their games.
+- **AI-Assisted Investment Analysis:** Future tools may analyse market trends, player engagement, revenue projections, and potential growth.
+- **Investment Forecasting:** Provide estimated returns, risk assessments, and confidence ranges rather than guaranteed profits.
+- **Investor–Developer Partnerships:** Allow investors and developers to communicate and explore funding agreements.
+- **Portfolio Tracking:** Enable investors to monitor their investments and the progress of supported projects.
+
+**Important:** Equity investment involves financial risk, including the possibility of losing the entire investment. Any future investment or share-purchasing functionality would require appropriate legal, regulatory, and compliance arrangements. These features are currently conceptual and have not been implemented.
+
 ## Getting Started
 
 ### Prerequisites
